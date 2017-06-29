@@ -1046,7 +1046,12 @@ var Bandnames = new Array(
         'Space Clouds ',
         'Eagle Eyed Pidgeon ',
         'Useful Juice ',
-	'Space Rash ' 
+	'Space Rash ',
+	'Scandanavian Edits ',
+	'Rick The Hard Drive ',
+	'Backrub Thompson ',
+	'Proliferate Life Insurance ',
+	'The Sample Size '
 );
 
 
