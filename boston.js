@@ -1051,7 +1051,8 @@ var Bandnames = new Array(
 	'Rick The Hard Drive ',
 	'Backrub Thompson ',
 	'Proliferate Life Insurance ',
-	'The Sample Size '
+	'The Sample Size ',
+	'Flat Earth Equinox '
 );
 
 
